@@ -1,46 +1,54 @@
-# Hi, I'm Saranya 👋  
-
-🎓 Engineering Graduate (B.E. in ECE)  
-📈 Aspiring Data Analyst | Skilled in Power BI, SQL, Excel, Python  
-
----
-
-## 🔹 About Me
-I am an engineering graduate with a strong foundation in problem-solving and analytical thinking.  
-Currently focused on **Data Analytics**, I specialize in transforming raw data into actionable insights through dashboards, reports, and workflow automation.  
-
-- 💡 Skilled in **Power BI** for interactive dashboards  
-- 🗄️ Experienced with **SQL** for database management and queries  
-- 🐍 Proficient in **Python** for data analysis and visualization  
-- 📊 Advanced **Excel** for reporting and automation  
+  # Hi there, I'm Saranya 👋  
+🎓 Engineering Graduate (ECE) | 📈 Data Analyst  
+🔧 Skilled in Power BI | SQL | Python | Excel  
 
 ---
 
-## 🔹 What I Do
-- Build **interactive dashboards** that empower stakeholders to make data-driven decisions  
-- Perform **data cleaning, transformation, and visualization**  
-- Automate workflows to improve efficiency  
-- Document processes for clarity and accessibility  
+## 📌 About Me
+- Engineering graduate in **Electronics & Communication (ECE)**  
+- Transitioned into **Data Analytics** with strong technical foundation  
+- Skilled in building **end-to-end dashboards and reports**  
+- Passionate about **Business Intelligence & Data Visualization**  
+- 🇮🇳 Based in India  
 
 ---
 
-## 🔹 Projects
--  **E-commerce Sales Dashboard** – Power BI project analyzing sales trends and KPIs  
--  **Social Media Productivity Analysis** – Data visualization of study, sleep, and productivity habits  
-- **Wonka Bar Chocolate Sales Dashboard**
-An interactive Power BI project analyzing chocolate sales performance.
+## 🛠️ Skills & Tools
+
+| Category        | Tools/Technologies |
+|-----------------|--------------------|
+| **Data Analysis** | Excel, SQL |
+| **Visualization** | Power BI |
+| **Programming** | Python (Pandas, NumPy, Matplotlib) |
+| **Database** | MySQL |
+| **Workflow** | GitHub, Documentation |
 
 ---
 
-## 🔹 Goals
-- 📚 Continuous learning in advanced analytics and machine learning  
-- 🚀 Building a strong portfolio of real-world projects  
-- 🌍 Contributing to open-source data projects  
+## 📂 Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📦 **E-commerce Sales Dashboard** | KPI-driven analysis of sales trends | Power BI |
+| 📦 **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, SQL |
+| 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
+| 📦 **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
 
 ---
 
-- 
----
-✨ *“Turning data into decisions with clarity and impact.”*
+## 🚀 Goals
+- Expand portfolio with **real-world analytics projects**  
+- Learn advanced **machine learning for analytics**  
+- Contribute to **open-source data projects**  
 
--->
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/saranya-p-b37248195)  
+- 🗂️ [GitHub](https://github.com/saranyaece30111998-analyst)  
+- 📧 Email: saranyaece30111998@gmail.com  
+- 📱 Phone: +91 8438617082  
+
+---
+
+✨ *“From ECE engineering to data storytelling — turning numbers into insights.”*
