@@ -1,27 +1,25 @@
-  # Hi there, I'm Saranya 👋  
+# Hi there, I'm Saranya 👋  
 🎓 Engineering Graduate (ECE) | 📈 Data Analyst  
-🔧 Skilled in Power BI | SQL | Python | Excel  
-
----
-
-## 📌 About Me
-- Engineering graduate in **Electronics & Communication (ECE)**  
-- Transitioned into **Data Analytics** with strong technical foundation  
-- Skilled in building **end-to-end dashboards and reports**  
-- Passionate about **Business Intelligence & Data Visualization**  
-- 🇮🇳 Based in India  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-| Category        | Tools/Technologies |
-|-----------------|--------------------|
-| **Data Analysis** | Excel, SQL |
-| **Visualization** | Power BI |
-| **Programming** | Python (Pandas, NumPy, Matplotlib) |
-| **Database** | MySQL |
-| **Workflow** | GitHub, Documentation |
+### 🔧 Core Skills
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 About Me
+- 🎓 Engineering graduate in **Electronics & Communication (ECE)**  
+- Transitioned into **Data Analytics** with strong technical foundation  
+- Skilled in building **end-to-end dashboards and reports**  
+- Passionate about **Business Intelligence & Data Visualization**  
+- 🇮🇳 Based in India  
 
 ---
 
