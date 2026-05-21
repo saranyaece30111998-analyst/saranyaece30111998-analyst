@@ -32,6 +32,7 @@
 | 📦 **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, SQL |
 | 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
 | 📦 **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
+| 📦 **Chocolate Sales Analysis** | Regional & product-level insights with KPIs | Tableau |
 
 ---
 
