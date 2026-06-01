@@ -3,7 +3,6 @@
 
 ---
 
-
 ## 🛠️ Skills & Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -12,7 +11,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-
 ---
 
 ## 📌 About Me
@@ -20,6 +18,8 @@
 - Transitioned into **Data Analytics** with strong technical foundation  
 - Skilled in building **end-to-end dashboards and reports**  
 - Passionate about **Business Intelligence & Data Visualization**  
+- 🌐 Advocate for **multilingual documentation (Tamil-English)**  
+- 📊 Focused on **data-driven decision making**  
 - 🇮🇳 Based in India  
 
 ---
@@ -33,13 +33,30 @@
 | 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
 | 📦 **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
 | 📦 **Chocolate Sales Analysis** | Regional & product-level insights with KPIs | Tableau |
+| 📦 **Shopify Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
+
+---
+
+## 🏆 Achievements
+- Built **interactive dashboards** with 10,000+ sales records  
+- Applied **predictive & prescriptive analytics** for business insights  
+- Designed **uniform report formats** with clear KPIs  
+- Contributed to **open-source datasets & GitHub repositories**  
 
 ---
 
 ## 🚀 Goals
 - Expand portfolio with **real-world analytics projects**  
 - Learn advanced **machine learning for analytics**  
+- Automate **data cleaning workflows** using Python & SQL  
 - Contribute to **open-source data projects**  
+
+---
+
+## 🌐 Languages
+- English  
+- Tamil
+- kannada
 
 ---
 
