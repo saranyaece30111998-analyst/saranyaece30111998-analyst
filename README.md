@@ -51,7 +51,7 @@
 ## 📂 GitHub Repository Highlights
 - 📊 **Sales_Analytics_SQL **→ Advanced SQL queries for cleaning & reporting  
 - 📈 **PowerBI_Ecommerce_Dashboard ** → End-to-end BI dashboard with KPIs  
-- 🐍 **Python_BikeSharing_Analysis [(github.com in Bing)] → Demand prediction using ML models  
+- 🐍 **Python_BikeSharing_Analysis → Demand prediction using ML models  
 - 📗 **Excel_Financial_KPI [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fsaranyaece30111998-analyst%2FExcel_Financial_KPI")** → Automated reporting templates  
 - 📦 **Tableau_Chocolate_Sales [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fsaranyaece30111998-analyst%2FTableau_Chocolate_Sales")** → Regional insights with interactive visuals  
 
