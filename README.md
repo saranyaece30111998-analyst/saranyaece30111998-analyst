@@ -1,4 +1,4 @@
-Perfect, Saranya 👌 — your GitHub profile README is already strong, but I’ll help you enrich it with **more projects** and a **GitHub repository highlights section*
+Perfect, Saranya 👌 — your GitHub profile README is already strong, but I’ll help you enrich it with 
 
 ---
 
