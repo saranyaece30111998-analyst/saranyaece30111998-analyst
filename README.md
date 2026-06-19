@@ -84,6 +84,6 @@
 
 ---
 
-👉 This version now **showcases more projects** (healthcare, weather, finance, movies) and adds a **GitHub repository highlights section** with direct links — recruiters love seeing clickable repos.  
+👉 This version now **showcases more projects** (healthcare, weather, finance, movies) and adds 
 
 
