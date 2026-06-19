@@ -49,7 +49,7 @@
 ---
 
 ## 📂 GitHub Repository Highlights
-- 📊 **Sales_Analytics_SQL [](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fsaranyaece30111998-analyst%2FSales_Analytics_SQL")** → Advanced SQL queries for cleaning & reporting  
+- 📊 **Sales_Analytics_SQL (https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fsaranyaece30111998-analyst%2FSales_Analytics_SQL")** → Advanced SQL queries for cleaning & reporting  
 - 📈 **PowerBI_Ecommerce_Dashboard [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fsaranyaece30111998-analyst%2FPowerBI_Ecommerce_Dashboard")** → End-to-end BI dashboard with KPIs  
 - 🐍 **Python_BikeSharing_Analysis [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fsaranyaece30111998-analyst%2FPython_BikeSharing_Analysis")** → Demand prediction using ML models  
 - 📗 **Excel_Financial_KPI [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fsaranyaece30111998-analyst%2FExcel_Financial_KPI")** → Automated reporting templates  
