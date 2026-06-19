@@ -86,4 +86,4 @@
 
 👉 This version now **showcases more projects** (healthcare, weather, finance, movies) and adds a **GitHub repository highlights section** with direct links — recruiters love seeing clickable repos.  
 
-Would you like me to also add **badges for GitHub stars/forks** on each repo so your profile looks even more professional?
+
