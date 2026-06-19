@@ -84,6 +84,6 @@
 
 ---
 
-👉 This version now **showcases more projects** (healthcare, weather, finance, movies) and adds 
+
 
 
