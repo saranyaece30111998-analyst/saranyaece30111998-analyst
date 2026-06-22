@@ -30,8 +30,7 @@
 | 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
 | 📦 **Bike Sharing Analysis** | Demand prediction & visualization | Python, Power BI |
 | 📦 **Chocolate Sales Analysis** | Regional & product-level insights with KPIs | Tableau |
-| 📦 **Shopify Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
-| 📦 **Hospital Patient Records Dashboard** | Healthcare analytics with admission trends | Excel, Power BI |
+| 📦 **Shopify Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI
 | 📦 **Weather Data Analysis** | Seasonal demand forecasting using climate data | Python, SQL |
 | 📦 **Global Travel Trends 2020–2024** | Tourism spending & behavior analysis | Power BI |
 | 📦 **Bike Station Sharing Across Europe** | Usage trends & demand hotspots | Power BI |
