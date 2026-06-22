@@ -23,7 +23,6 @@
 ---
 
 ## 📂 Projects
-
 | Project | Description | Tools |
 |---------|-------------|-------|
 | 📦 **E-commerce Sales Dashboard** | KPI-driven analysis of sales trends | Power BI |
@@ -35,6 +34,15 @@
 | 📦 **Hospital Patient Records Dashboard** | Healthcare analytics with admission trends | Excel, Power BI |
 | 📦 **Weather Data Analysis** | Seasonal demand forecasting using climate data | Python, SQL |
 | 📦 **Financial KPI Dashboard** | Profitability & expense tracking for SMEs | Power BI, Excel |
+| 📦 **Global Travel Trends 2020–2024** | Tourism spending & behavior analysis | Power BI |
+| 📦 **Bike Station Sharing Across Europe** | Usage trends & demand hotspots | Power BI |
+| 📦 **Urban Weather Pattern Report** | Climate trends across Indian metros | Power BI |
+| 📦 **Movie Ratings Analysis** | Audience sentiment & rating distribution | SQL, Python |
+| 📦 **Retail Customer Segmentation** | RFM analysis for targeted marketing | SQL, Power BI |
+| 📦 **Employee Attrition Prediction** | HR analytics with ML classification | Python, Excel |
+| 📦 **Supply Chain Optimization** | Inventory & logistics efficiency KPIs | Power BI |
+| 📦 **Bank Loan Risk Analysis** | Predictive modeling for loan defaults | Python, SQL |
+| 📦 **Energy Consumption Dashboard** | Smart meter data insights | Power BI |
 
 
 ---
