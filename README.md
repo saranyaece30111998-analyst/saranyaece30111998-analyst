@@ -23,7 +23,7 @@
 
 - 🧩 Strong knowledge of ETL processes and integrating multiple data sources into unified reports
 
-🌍 Worked with global datasets (travel, e-commerce, climate, and social media) for real-world insights
+- 🌍 Worked with global datasets (travel, e-commerce, climate, and social media) for real-world insights
 
 🏗️ Built scalable Power BI models with calculated measures and DAX expressions
 
