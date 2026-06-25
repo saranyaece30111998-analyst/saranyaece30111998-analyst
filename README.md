@@ -19,7 +19,7 @@
 - 📊 Focused on **data-driven decision making**
 - 📊 Experienced in data cleaning, transformation, and automation workflows using Python & SQL
 
-📈 Designed KPI-driven dashboards for sales, marketing, and operations teams
+- 📈 Designed KPI-driven dashboards for sales, marketing, and operations teams
 
 🧩 Strong knowledge of ETL processes and integrating multiple data sources into unified reports
 
