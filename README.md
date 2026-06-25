@@ -27,7 +27,7 @@
 
 - 🏗️ Built scalable Power BI models with calculated measures and DAX expressions
 
-📑 Advocate for clear documentation with multilingual support (Tamil-English)
+- 📑 Advocate for clear documentation with multilingual support (Tamil-English)
 
 🧠 Focused on predictive analytics and applying machine learning for business forecasting
 
