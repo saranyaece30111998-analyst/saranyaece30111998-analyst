@@ -16,7 +16,22 @@
 - Transitioned into **Data Analytics** with strong technical foundation  
 - Skilled in building **end-to-end dashboards and reports**  
 - Passionate about **Business Intelligence & Data Visualization**  
-- 📊 Focused on **data-driven decision making**  
+- 📊 Focused on **data-driven decision making**
+- 📊 Experienced in data cleaning, transformation, and automation workflows using Python & SQL
+
+📈 Designed KPI-driven dashboards for sales, marketing, and operations teams
+
+🧩 Strong knowledge of ETL processes and integrating multiple data sources into unified reports
+
+🌍 Worked with global datasets (travel, e-commerce, climate, and social media) for real-world insights
+
+🏗️ Built scalable Power BI models with calculated measures and DAX expressions
+
+📑 Advocate for clear documentation with multilingual support (Tamil-English)
+
+🧠 Focused on predictive analytics and applying machine learning for business forecasting
+
+🛠️ Skilled in version control (Git/GitHub) for collaborative data projects
 - 🇮🇳 Based in India  
 
 ---
