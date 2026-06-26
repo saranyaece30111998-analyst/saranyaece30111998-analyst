@@ -29,8 +29,6 @@
 
 - 📑 Advocate for clear documentation with multilingual support (Tamil-English)
 
-- 🧠 Focused on predictive analytics and applying machine learning for business forecasting
-
 - 🇮🇳 Based in India  
 
 ---
