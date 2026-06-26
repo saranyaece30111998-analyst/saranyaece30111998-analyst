@@ -31,7 +31,6 @@
 
 - 🧠 Focused on predictive analytics and applying machine learning for business forecasting
 
-- 🛠️ Skilled in version control (Git/GitHub) for collaborative data projects
 - 🇮🇳 Based in India  
 
 ---
