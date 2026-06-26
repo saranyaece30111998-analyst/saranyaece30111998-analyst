@@ -27,8 +27,6 @@
 
 - 🏗️ Built scalable Power BI models with calculated measures and DAX expressions
 
-- 📑 Advocate for clear documentation with multilingual support (Tamil-English)
-
 - 🇮🇳 Based in India  
 
 ---
