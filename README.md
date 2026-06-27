@@ -23,7 +23,7 @@
 
 - 🧩 Strong knowledge of ETL processes and integrating multiple data sources into unified reports
 
-- 🌍 Worked with global datasets (travel, 
+ 
 
 
 - 🇮🇳 Based in India  
