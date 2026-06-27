@@ -18,13 +18,6 @@
 - Passionate about **Business Intelligence & Data Visualization**  
 - 📊 Focused on **data-driven decision making**
 - 📊 Experienced in data cleaning, transformation, and automation workflows using Python & SQL
-
-
- 
-
- 
-
-
 - 🇮🇳 Based in India  
 
 ---
