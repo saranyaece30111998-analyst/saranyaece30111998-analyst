@@ -21,7 +21,7 @@
 
 - 📈 Designed KPI-driven dashboards for sales, marketing, and operations teams
 
-- 🧩 Strong knowledge of ETL processes and integrating multiple data sources into unified reports
+ 
 
  
 
