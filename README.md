@@ -25,7 +25,7 @@
 
 - 🌍 Worked with global datasets (travel, e-commerce, climate, and social media) for real-world insights
 
-- 🏗️ Built scalable Power BI models with calculated measures and DAX expressions
+- 🏗️ Built scalable Power BI models 
 
 - 🇮🇳 Based in India  
 
