@@ -53,7 +53,7 @@
 - 📈 **PowerBI_Ecommerce_Dashboard ** → End-to-end BI dashboard with KPIs  
 - 🐍 **Python_BikeSharing_Analysis → Demand prediction using ML models  
 - 📗 **Excel_Financial_KPI → Automated reporting templates  
-- 📦 **Tableau_Chocolate_Sales → Regional insights with interactive visuals  
+  
 
 ---
 
