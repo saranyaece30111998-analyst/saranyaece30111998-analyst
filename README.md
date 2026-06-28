@@ -44,7 +44,7 @@
 - Applied **predictive & prescriptive analytics** for business insights  
 - Designed **uniform report formats** with clear KPIs  
 - Contributed to **open-source datasets & GitHub repositories**  
-- Published **portfolio-ready dashboards** with real-world datasets  
+- Published **portfolio-ready dashboards** with real-world datasets 
 
 ---
 
