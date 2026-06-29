@@ -15,7 +15,7 @@
 - 🎓 Engineering graduate in **Electronics & Communication (ECE)**  
 - Transitioned into **Data Analytics** with strong technical foundation  
 - Skilled in building **end-to-end dashboards and reports**
-- Passionate about **Business Intelligence & Data Visualization**  
+- Passionate about **Business Intelligence & Data Visualization** 
 - 📊 Focused on **data-driven decision making**
 - 📊 Experienced in data cleaning, transformation, and automation workflows using Python & SQL
 - 🇮🇳 Based in India 
