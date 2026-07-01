@@ -12,13 +12,17 @@
 ---
 
 ## 📌 About Me
-- 🎓 Engineering graduate in **Electronics & Communication (ECE)**  
-- Transitioned into **Data Analytics** with strong technical foundation  
-- Skilled in building **end-to-end dashboards and reports**
-- Passionate about **Business Intelligence & Data Visualization** 
-- 📊 Focused on **data-driven decision making**
-- 📊 Experienced in data cleaning, transformation, and automation workflows using Python & SQL
-- 🇮🇳 Based in India
+- 🎓 Engineering Graduate (ECE) → Electronics & Communication foundation
+
+📊 Data Analytics Expert → End-to-end dashboards & reports
+
+💡 Business Intelligence & Visualization → Transforming data into insights
+
+🛠️ Tech Skills → Python | SQL | Power BI
+
+⚙️ Data Processing & Automation → Cleaning & workflow automation
+
+🇮🇳 Based in India → With cultural context and multilingual accessibility
 
 ---
 
