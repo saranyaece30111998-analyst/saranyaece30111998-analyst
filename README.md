@@ -22,7 +22,7 @@
 
 - ⚙️ Data Processing & Automation → Cleaning & workflow automation
 
-🇮🇳 Based in India → With cultural context and multilingual accessibility
+- 🇮🇳 Based in India → With cultural context and multilingual accessibility
 
 ---
 
