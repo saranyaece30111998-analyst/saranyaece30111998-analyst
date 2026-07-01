@@ -18,7 +18,7 @@
 
 - 💡 Business Intelligence & Visualization → Transforming data into insights
 
-🛠️ Tech Skills → Python | SQL | Power BI
+- 🛠️ Tech Skills → Python | SQL | Power BI
 
 ⚙️ Data Processing & Automation → Cleaning & workflow automation
 
