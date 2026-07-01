@@ -20,7 +20,7 @@
 
 - 🛠️ Tech Skills → Python | SQL | Power BI
 
-⚙️ Data Processing & Automation → Cleaning & workflow automation
+- ⚙️ Data Processing & Automation → Cleaning & workflow automation
 
 🇮🇳 Based in India → With cultural context and multilingual accessibility
 
