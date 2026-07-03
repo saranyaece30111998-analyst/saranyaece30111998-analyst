@@ -16,7 +16,7 @@
 
 - 📊 Data Analytics Expert → End-to-end dashboards & reports
 
-- 💡 Business Intelligence & Visualization → Transforming data into insights
+- 💡 Business Intelligence & Visualization → Transforming data into insight
 
 - 🛠️ Tech Skills → Python | SQL | Power BI
 
