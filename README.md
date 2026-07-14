@@ -40,9 +40,7 @@
 | 📦 **Shopify Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
 | 📦 **Weather Data Analysis** | Seasonal demand forecasting using climate data | Excel, Power BI |
 | 📦 **Global Travel Trends 2020–2024** | Tourism spending & behavior analysis | Power BI |
-| 📦 **Bike Station Sharing Across Europe** | Usage trends & demand hotspots | Power BI |
-| 📦 **Urban Weather Pattern Report** | Climate trends across Indian metros | Power BI |
-| 📦 **Customer Support Ticket Analyzer** | NLP-based ticket classification & insights | Python |
+| 📦 **Bike Station Sharing Across Europe** | Usage trends & dema
 
 
 
