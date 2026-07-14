@@ -28,7 +28,35 @@
 - 🇮🇳 Based in India 
 
 ---
+# 📂 Data Analytics & Visualization Projects
 
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📦 **E-commerce Sales Dashboard** | KPI-driven analysis of sales trends | Excel |
+| 📦 **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, Excel |
+| 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
+| 📦 **Bike Sharing Analysis** | Demand prediction & visualization | Excel, Power BI |
+| 📦 **Chocolate Sales Analysis** | Regional & product-level insights with KPIs | Tableau |
+| 📦 **Shopify Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
+| 📦 **Weather Data Analysis** | Seasonal demand forecasting using climate data | Excel, Power BI |
+| 📦 **Global Travel Trends 2020–2024** | Tourism spending & behavior analysis | Power BI |
+| 📦 **Bike Station Sharing Across Europe** | Usage trends & demand hotspots | Power BI |
+| 📦 **Urban Weather Pattern Report** | Climate trends across Indian metros | Power BI |
+| 📦 **Customer Support Ticket Analyzer** | NLP-based ticket classification & insights | Python |
+| 📦 **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python (NumPy) |
+
+---
+
+## 🔑 Highlights
+- 📊 **Dashboards**: Power BI, Tableau, Excel for KPI-driven insights  
+- 🗄️ **Data Handling**: SQL queries, cleaning, and aggregation workflows  
+- 🧠 **Analytics**: Python (NumPy, Pandas, NLP) for advanced statistical modeling  
+- 🌍 **Domains**: E-commerce, Education, Climate, Tourism, Customer Support  
+
+---
+
+## 🚀 How to Use
+Clone the repository and explore individual project folders for datasets
 
 
 ---
