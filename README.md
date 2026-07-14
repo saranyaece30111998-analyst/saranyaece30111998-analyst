@@ -29,13 +29,6 @@
 
 ---
 
-## 📂 Projects
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 📦 **E-commerce Sales Dashboard** | KPI-driven analysis of sales trends | Excel |
-| 📦 **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, Excel |
-| 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL 
-
 
 
 ---
