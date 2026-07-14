@@ -34,13 +34,7 @@
 |---------|-------------|-------|
 | 📦 **E-commerce Sales Dashboard** | KPI-driven analysis of sales trends | Excel |
 | 📦 **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, Excel |
-| 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
-| 📦 **Bike Sharing Analysis** | Demand prediction & visualization | Excel, Power BI |
-| 📦 **Chocolate Sales Analysis** | Regional & product-level insights with KPIs | Tableau |
-| 📦 **Shopify Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
-| 📦 **Weather Data Analysis** | Seasonal demand forecasting using climate data | Excel, Power BI |
-| 📦 **Global Travel Trends 2020–2024** | Tourism spending & behavior analysis | Power BI |
-| 📦 **Bike Station Sharing Across Europe** | Usage trends & dema
+| 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL 
 
 
 
