@@ -1,8 +1,7 @@
 # Hi there, I'm Saranya 👋  
 🎓 Engineering Graduate (ECE) | 📈 Data Analyst  
 
----
-## 🛠️ Skills & Tools
+
 
 
 
