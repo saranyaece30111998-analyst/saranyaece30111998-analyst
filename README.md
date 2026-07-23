@@ -17,7 +17,7 @@
 ## 📌 About Me
 - 🎓 Engineering Graduate (ECE) → Electronics & Communication foundation
 
-- 📊 Data Analytics Expert → End-to-end dashboards & reports'''''''''''''''''
+- 📊 Data Analytics Expert → End-to-end dashboards & reports
 
 - 💡 Business Intelligence & Visualization → Transforming data into insights
 
