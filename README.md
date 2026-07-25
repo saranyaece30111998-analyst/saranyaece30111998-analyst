@@ -1,27 +1,3 @@
-# Saranya  
-**Data Analyst | SQL • Python • Power BI • Excel**  
-Building Dashboards that Tell Stories 📊  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
-
-## About Me
-```python
-saranya = {
-    "name": "Saranya",
-    "role": "Data Analyst",
-    "education": "Bachelor of Engineering (ECE)",
-    "skills": ["SQL", "Python", "Power BI", "Excel"],
-    "focus": ["Data Storytelling", "KPI Dashboards", "EDA"],
-    "currently_learning": ["Pandas", "Seaborn", "Statistical Analysis"],
-    "open_to": "Data Analyst roles & freelance projects",
-    "motto": "Data is not just numbers — it’s insight waiting to be found."
-}
-
-
-
-
 # Hi there, I'm Saranya 👋  
 🎓 Engineering Graduate (ECE) | 📈 Data Analyst  
 ---
