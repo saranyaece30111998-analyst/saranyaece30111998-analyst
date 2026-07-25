@@ -92,6 +92,69 @@ saranya = {
 - **B.E. Electronics & Communication** — *Anna University* `2014 — 2018`  
   First class with distinction
 
+# 🖤 Saranya's Data Analytics Portfolio
+
+## 📊 Featured Projects
+
+<details>
+<summary><b>1. AI Job Market Trends 2022–2026</b></summary>
+
+**Tools:** SQL + Tableau  
+**Description:** End-to-end analytics pipeline with Stored Procedures, Triggers & Functions → Interactive Tableau Dashboard  
+**Tags:** `SQL` `Tableau` `Stored Procedures` `Data Pipeline` `Dashboard`  
+
+🔗 [View Dashboard](https://tableau.com/your-link)  
+</details>
+
+---
+
+<details>
+<summary><b>2. AI Job Impact Index 2026</b></summary>
+
+**Tool:** Tableau  
+**Description:** Strategic workforce planning tool — analyzing education, salary shifts & productivity gains for upskilling initiatives  
+**Tags:** `Tableau` `Workforce Analytics` `Salary Analysis` `Strategic Planning`  
+
+🔗 [Explore Project](https://github.com/your-repo)  
+</details>
+
+---
+
+<details>
+<summary><b>3. Global Student Migration & Placement Analytics</b></summary>
+
+**Tool:** Tableau  
+**Description:** Migration trends, academic performance & career outcomes across 5,000 international students  
+**Tags:** `Tableau` `Global Analytics` `Education Data` `Career Outcomes`  
+
+🔗 [Interactive Report](https://tableau.com/your-link)  
+</details>
+
+---
+
+<details>
+<summary><b>4. Student Suicide Trends in India 2018–2022</b></summary>
+
+**Tool:** Power BI  
+**Description:** 5-year demographic analysis identifying vulnerable groups and regional patterns for policy insight  
+**Tags:** `Power BI` `Social Analytics` `Demographic Analysis` `Public Policy`  
+
+🔗 [Power BI Dashboard](https://powerbi.com/your-link)  
+</details>
+
+---
+
+<details>
+<summary><b>5. Online Education System Review 2021</b></summary>
+
+**Tool:** Power BI  
+**Description:** Evaluation of online learning platforms — performance, accessibility, and student satisfaction  
+**Tags:** `Power BI` `Education Analytics` `System Review`  
+
+🔗 [Project Repo](https://github.com/your-repo)  
+</details>
+
+
 ## 📂 Data Analytics & Visualization Projects
 
 | Project | Description | Tools |
