@@ -85,14 +85,11 @@ saranya = {
 
 </div>
 
-## 💼 Experience
 
-- **Data Analyst** @ *Acme Corp* — `2023 — Present`  
-  Built dashboards used by 50+ stakeholders; automated weekly reporting.
 
 ## 🎓 Education
 
-- **B.E. Electronics & Communication** — *Anna University* `2015 — 2019`  
+- **B.E. Electronics & Communication** — *Anna University* `2014 — 2018`  
   First class with distinction
 
 ## 📂 Data Analytics & Visualization Projects
