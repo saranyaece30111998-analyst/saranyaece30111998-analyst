@@ -33,37 +33,38 @@ saranya = {
 
 ### ● Query & Programming
 
-<img src="[img.shields.io](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python"/>
-<img src="[img.shields.io](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL"/>
-<img src="[img.shields.io](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 <br>
 
 ### ● Data Visualization
 
-<img src="[img.shields.io](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)" alt="Tableau"/>
-<img src="[img.shields.io](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)" alt="Power BI"/>
-<img src="[img.shields.io](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
 <br>
 
 ### ● Python Libraries
 
-<img src="[img.shields.io](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)" alt="Pandas"/>
-<img src="[img.shields.io](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)" alt="NumPy"/>
-<img src="[img.shields.io](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Matplotlib"/>
-<img src="[img.shields.io](https://img.shields.io/badge/Seaborn-3A7CA5?style=for-the-badge&logo=python&logoColor=white)" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3A7CA5?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 
 <br>
 
 ### ● Tools & Platforms
 
-<img src="[img.shields.io](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)" alt="VS Code"/>
-<img src="[img.shields.io](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)" alt="Jupyter"/>
-<img src="[img.shields.io](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" alt="Git"/>
-<img src="[img.shields.io](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
+
 
 ## 🛠 Tech Stack
 
