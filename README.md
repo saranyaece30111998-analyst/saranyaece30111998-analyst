@@ -19,7 +19,7 @@ saranya = {
     "motto": "Data is not just numbers — it’s insight waiting to be found."
 }
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saran41290&show_icons=true&theme=radical)
+
 
 
 # Hi there, I'm Saranya 👋  
