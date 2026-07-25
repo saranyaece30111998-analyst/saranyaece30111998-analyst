@@ -32,15 +32,83 @@ Built dashboards used by 50+ stakeholders; automated weekly reporting.
 First class with distinction
 
 ## 📌 Featured Projects
-### [Sales Insights Dashboard](https://github.com/saranyaece30111998-analyst)
-Interactive Power BI dashboard analyzing 3 years of retail sales.
-> **Tech:** Power BI, SQL, Excel
-
-### [Customer Churn Analysis](https://github.com/saranyaece30111998-analyst)
-Python + Pandas notebook uncovering churn drivers with logistic regression.
-> **Tech:** Python, Pandas, scikit-learn
-
-<a href="https://github.com/saranyaece30111998-analyst?tab=repositories"><img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<table style="background-color:#000000; color:#ffffff; border:1px solid #ffffff; width:100%; text-align:left;">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>📊 <b>Sales Insights Dashboard</b></td>
+    <td>Interactive Power BI dashboard analyzing 3 years of retail sales</td>
+    <td>Power BI, SQL, Excel</td>
+  </tr>
+  <tr>
+    <td>📉 <b>Customer Churn Analysis</b></td>
+    <td>Python + Pandas notebook uncovering churn drivers with logistic regression</td>
+    <td>Python, Pandas, scikit-learn</td>
+  </tr>
+  <tr>
+    <td>📦 <b>E-commerce Sales Dashboard</b></td>
+    <td>KPI-driven analysis of sales trends</td>
+    <td>Excel</td>
+  </tr>
+  <tr>
+    <td>📱 <b>Social Media Impact Analysis</b></td>
+    <td>Productivity vs. screen time dashboard</td>
+    <td>Power BI, Excel</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>SQL Data Cleaning</b></td>
+    <td>Structured queries for raw dataset insights</td>
+    <td>SQL</td>
+  </tr>
+  <tr>
+    <td>🚲 <b>Bike Sharing Analysis</b></td>
+    <td>Demand prediction & visualization</td>
+    <td>Excel, Power BI</td>
+  </tr>
+  <tr>
+    <td>🍫 <b>Chocolate Sales Analysis</b></td>
+    <td>Regional & product-level insights with KPIs</td>
+    <td>Tableau</td>
+  </tr>
+  <tr>
+    <td>🛍️ <b>Shopify Transactions Dashboard</b></td>
+    <td>60,000+ records analyzed for profit & demand</td>
+    <td>Power BI</td>
+  </tr>
+  <tr>
+    <td>🌦️ <b>Weather Data Analysis</b></td>
+    <td>Seasonal demand forecasting using climate data</td>
+    <td>Excel, Power BI</td>
+  </tr>
+  <tr>
+    <td>✈️ <b>Global Travel Trends 2020–2024</b></td>
+    <td>Tourism spending & behavior analysis</td>
+    <td>Power BI</td>
+  </tr>
+  <tr>
+    <td>🚲 <b>Bike Station Sharing Across Europe</b></td>
+    <td>Usage trends & demand hotspots</td>
+    <td>Power BI</td>
+  </tr>
+  <tr>
+    <td>🌇 <b>Urban Weather Pattern Report</b></td>
+    <td>Climate trends across Indian metros</td>
+    <td>Power BI</td>
+  </tr>
+  <tr>
+    <td>🎫 <b>Customer Support Ticket Analyzer</b></td>
+    <td>NLP-based ticket classification & insights</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Student Performance Analysis</b></td>
+    <td>NumPy-based statistical insights into grades, correlations, and learning trends</td>
+    <td>Python (NumPy)</td>
+  </tr>
+</table>
 
 ## 📜 Certifications
 - **Google Data Analytics Certificate** — *Google* (2023)
