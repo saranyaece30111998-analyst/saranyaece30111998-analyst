@@ -65,33 +65,6 @@ saranya = {
 
 </div>
 
-
-## 🛠 Tech Stack
-
-**Query & Programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-
-**Data Visualization**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-
-**Python Libraries**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?logo=python&logoColor=white)
-
-**Tools & Platforms**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
- 
-
-
 ## 💼 Experience
 
 - **Data Analyst** @ *Acme Corp* — `2023 — Present`  
