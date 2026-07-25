@@ -1,4 +1,3 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=9b87f5&center=true&vCenter=true&width=600&lines=%20%20%20%20%20Turning%20numbers%20into%20decisions" alt="Typing SVG" /></p>
 
 <h1 align="center">Hi 👋, I'm Saranya</h1>
 <h3 align="center">     Turning numbers into decisions</h3>
