@@ -30,7 +30,7 @@ saranya = {
 
 ## 🛠 Tech Stack
 
-**Query & Programming**  
+<p align="center">**Query & Programming**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
