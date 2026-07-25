@@ -5,25 +5,27 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=9b87f5&center=true&vCenter=true&width=700&lines=Turning%20numbers%20into%20decisions;Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI;I%20build%20dashboards%20that%20tell%20stories;Always%20learning%2C%20always%20exploring%20data" alt="Typing SVG" /></p>
 
 <p align="center"><a href="https://github.com/saranyaece30111998-analyst" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937" /></a> &nbsp; <img src="https://komarev.com/ghpvc/?username=saranyaece30111998-analyst&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=1f2937" /></p>
+
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/saranyaece30111998-analyst" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937" />
   </a> &nbsp; 
-  <img src="https://komarev.com/ghpvc/?username=saranyaece30111998-analyst&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=1f2937" />
-
-  <br><br>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/saranya-p-b37248195" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937" />
   </a> &nbsp;
 
   <!-- Gmail -->
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:saranyaece30111998@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937" />
-  </a>
+  </a> &nbsp;
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=saranyaece30111998-analyst&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=1f2937" />
 </p>
+
 
 
 <h2 align="center">I turn coffee into pivot tables ☕📊 📈</h2>
