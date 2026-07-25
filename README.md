@@ -1,42 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Saranya</h1>
-<h3 align="center">Data Analyst • Turning numbers into decisions</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=saranyaece30111998-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="saranyaece30111998-analyst" /></p>
 
-## 🚀 About Me
-I'm a data analyst passionate about clean data, clear dashboards, and telling stories with numbers. Currently exploring the intersection of analytics and product.
 
-- 🔭 I'm currently working on **data analytics dashboards**
-- 🌱 I'm currently learning **advanced SQL & Python for analytics**
-- 👯 I'm looking to collaborate on **open-source data projects**
-- 📍 Based in **India**
-- ⚡ Fun fact: *I turn coffee into pivot tables ☕📊*
 
-## 🛠️ Languages & Tools
-<p align="left">
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=for-the-badge&logo=amazondynamodb&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-</p>
 
-## 📌 Featured Projects
-### [Sales Insights Dashboard](https://github.com/saranyaece30111998-analyst)
-Interactive Power BI dashboard analyzing 3 years of retail sales data.
-> **Tech:** Power BI, SQL, Excel
 
-### [Customer Churn Analysis](https://github.com/saranyaece30111998-analyst)
-Python + Pandas notebook uncovering churn drivers with logistic regression.
-> **Tech:** Python, Pandas, scikit-learn
-
-## 📊 GitHub Stats
-<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saranyaece30111998-analyst&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=saranyaece30111998-analyst&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranyaece30111998-analyst&layout=compact&theme=tokyonight&hide_border=true" /></p>
-
-## 🏆 GitHub Trophies
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saranyaece30111998-analyst&theme=tokyonight&no-frame=true&column=7" /></p>
-
----
-<p align="center"><i>✨ Generated with ProfileForge</i></p>
 
 # Hi there, I'm Saranya 👋  
 🎓 Engineering Graduate (ECE) | 📈 Data Analyst  
