@@ -113,7 +113,22 @@ saranya = {
 
 ## 📜 Certifications
 
-- **Google Data Analytics Certificate** — *Google* (2023)
+
+---
+
+### 🤖 AI Driven Data Analyst Course  
+**Issuer:** Entri Elevate (Sep 2026)  
+**Highlights:**  
+- Skilled in Power BI, SQL, Python, and Excel for data cleaning, visualization, and reporting  
+- Applied AI techniques to deliver predictive insights and build interactive dashboards with actionable KPIs  
+
+---
+
+### 📊 Excel Using AI – Office Master  
+**Issuer:** Office Master (Apr 2026)  
+**Highlights:**  
+- Specialized in AI-powered Excel automation, advanced formulas, and data visualization  
+- Applied intelligent tools to streamline reporting, enhance productivity, and deliver actionable business insights  
 
 ## 🏅 Achievements
 
