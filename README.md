@@ -1,7 +1,7 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=9b87f5&center=true&vCenter=true&width=600&lines=Data%20Analyst%20%E2%80%A2%20Turning%20numbers%20into%20decisions" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=9b87f5&center=true&vCenter=true&width=600&lines=%20%20%20%20%20Turning%20numbers%20into%20decisions" alt="Typing SVG" /></p>
 
 <h1 align="center">Hi 👋, I'm Saranya</h1>
-<h3 align="center">Data Analyst • Turning numbers into decisions</h3>
+<h3 align="center">     Turning numbers into decisions</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=saranyaece30111998-analyst&label=Profile%20views&color=blueviolet&style=flat" /> <img src="https://img.shields.io/github/followers/saranyaece30111998-analyst?label=Followers&style=social" /></p>
 
