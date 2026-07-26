@@ -114,9 +114,6 @@ saranya = {
 
 ## 📜 Certifications
 
-
----
-
 ### 🤖 AI Driven Data Analyst Course  
 **Issuer:** Entri Elevate (Sep 2026)  
 **Highlights:**  
