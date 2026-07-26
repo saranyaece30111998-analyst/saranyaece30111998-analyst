@@ -194,7 +194,7 @@ saranya = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dashboards-36-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboards-10-06B6D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Analytics%20Projects-12-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Tableau%20%7C%20Python-6366F1?style=for-the-badge" />
 </p>
