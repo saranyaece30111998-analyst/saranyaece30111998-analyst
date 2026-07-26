@@ -158,6 +158,10 @@ saranya = {
 - 🔹 **[Student Performance Analysis](link-to-repo)** — `Python (NumPy)`  
   NumPy-based statistical insights into grades, correlations, and learning trends  
   `Education` `Statistics` `NumPy`
+  
+
+  
+
 
 <p align="center"><a href="https://github.com/saranyaece30111998-analyst?tab=repositories"><img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
