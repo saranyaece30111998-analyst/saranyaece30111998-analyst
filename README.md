@@ -95,20 +95,7 @@ saranya = {
 
 ## 📂 Data Analytics & Visualization Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 📦 **E-commerce Sales Dashboard** | KPI-driven analysis of sales trends | Excel |
-| 📦 **Social Media Impact Analysis** | Productivity vs. screen time dashboard | Power BI, Excel |
-| 📦 **SQL Data Cleaning** | Structured queries for raw dataset insights | SQL |
-| 📦 **Bike Sharing Analysis** | Demand prediction & visualization | Excel, Power BI |
-| 📦 **Chocolate Sales Analysis** | Regional & product-level insights with KPIs | Tableau |
-| 📦 **Shopify Transactions Dashboard** | 60,000+ records analyzed for profit & demand | Power BI |
-| 📦 **Weather Data Analysis** | Seasonal demand forecasting using climate data | Excel, Power BI |
-| 📦 **Global Travel Trends 2020–2024** | Tourism spending & behavior analysis | Power BI |
-| 📦 **Bike Station Sharing Across Europe** | Usage trends & demand hotspots | Power BI |
-| 📦 **Urban Weather Pattern Report** | Climate trends across Indian metros | Power BI |
-| 📦 **Customer Support Ticket Analyzer** | NLP-based ticket classification & insights | Python |
-| 📦 **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python (NumPy) |
+
 ## Featured Projects
 
 - 🔹 **[E-commerce Sales Dashboard](link-to-repo)** — `Excel`  
@@ -160,12 +147,7 @@ saranya = {
   `Education` `Statistics` `NumPy`
   
 
-  
-
-
-<p align="center"><a href="https://github.com/saranyaece30111998-analyst?tab=repositories"><img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
-
-## 📜 Certifications
+<p align="center"><a href="https://github.com/saranyaece30111998-analyst?tab=repositories"><img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p
 
 ## 🎓 Certifications
 
