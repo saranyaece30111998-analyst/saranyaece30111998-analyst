@@ -182,9 +182,9 @@ saranya = {
 
 <p align="center">Data Analyst · Dashboards · Visualization · SQL · Python</p>
 
----
 
-## 📊 GitHub Stats
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-12-3B82F6?style=for-the-badge&logo=github" />
