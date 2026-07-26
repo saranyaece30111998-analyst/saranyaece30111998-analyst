@@ -109,7 +109,56 @@ saranya = {
 | 📦 **Urban Weather Pattern Report** | Climate trends across Indian metros | Power BI |
 | 📦 **Customer Support Ticket Analyzer** | NLP-based ticket classification & insights | Python |
 | 📦 **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python (NumPy) |
-.
+## Featured Projects
+
+- 🔹 **[E-commerce Sales Dashboard](link-to-repo)** — `Excel`  
+  KPI-driven analysis of sales trends  
+  `Sales Analytics` `KPI Dashboard` `Retail`
+
+- 🔹 **[Social Media Impact Analysis](link-to-repo)** — `Power BI` `Excel`  
+  Productivity vs. screen time dashboard  
+  `Social Analytics` `Wellness` `Correlation`
+
+- 🔹 **[SQL Data Cleaning](link-to-repo)** — `SQL`  
+  Structured queries for raw dataset insights  
+  `Data Cleaning` `Query Optimization` `ETL`
+
+- 🔹 **[Bike Sharing Analysis](link-to-repo)** — `Excel` `Power BI`  
+  Demand prediction & visualization  
+  `Transportation` `Demand Forecasting` `Visualization`
+
+- 🔹 **[Chocolate Sales Analysis](link-to-repo)** — `Tableau`  
+  Regional & product-level insights with KPIs  
+  `Sales` `Regional Analysis` `KPIs`
+
+- 🔹 **[Shopify Transactions Dashboard](link-to-repo)** — `Power BI`  
+  60,000+ records analyzed for profit & demand  
+  `E-commerce` `Profit Analysis` `Big Data`
+
+- 🔹 **[Weather Data Analysis](link-to-repo)** — `Excel` `Power BI`  
+  Seasonal demand forecasting using climate data  
+  `Climate` `Forecasting` `Seasonality`
+
+- 🔹 **[Global Travel Trends 2020–2024](link-to-repo)** — `Power BI`  
+  Tourism spending & behavior analysis  
+  `Tourism` `Trend Analysis` `Global Data`
+
+- 🔹 **[Bike Station Sharing Across Europe](link-to-repo)** — `Power BI`  
+  Usage trends & demand hotspots  
+  `Geospatial` `Transportation` `Europe`
+
+- 🔹 **[Urban Weather Pattern Report](link-to-repo)** — `Power BI`  
+  Climate trends across Indian metros  
+  `Weather` `India` `Urban Analytics`
+
+- 🔹 **[Customer Support Ticket Analyzer](link-to-repo)** — `Python`  
+  NLP-based ticket classification & insights  
+  `NLP` `Classification` `Customer Support`
+
+- 🔹 **[Student Performance Analysis](link-to-repo)** — `Python (NumPy)`  
+  NumPy-based statistical insights into grades, correlations, and learning trends  
+  `Education` `Statistics` `NumPy`
+
 <p align="center"><a href="https://github.com/saranyaece30111998-analyst?tab=repositories"><img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ## 📜 Certifications
