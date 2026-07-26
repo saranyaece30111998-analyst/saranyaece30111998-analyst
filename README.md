@@ -189,7 +189,7 @@ saranya = {
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repos-12-3B82F6?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Total%20Stars-⭐%20Growing-10B981?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-36-8B5CF6?style=for-the-badge&logo=github" />
+  
   <img src="https://img.shields.io/badge/Projects%20Live-Live-EF4444?style=for-the-badge&logo=github" />
 </p>
 
@@ -203,21 +203,7 @@ saranya = {
 
 ---
 
-## 🛠️ Tools I Use
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://your-live-portfolio-url.lovable.app">🌐 View Live Portfolio</a>
-</p>
 
 
 ## 🏆 GitHub Trophies
