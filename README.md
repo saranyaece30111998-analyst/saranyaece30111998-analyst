@@ -94,12 +94,6 @@ saranya = {
 
 
 ## Featured Projects
-<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:10px; color:#c9d1d9;">
-  <h3>🔹 E-commerce Sales Dashboard — <code>Excel</code></h3>
-  <p><b>KPI-driven analysis of sales trends</b></p>
-  <p><code>Sales Analytics</code> <code>KPI Dashboard</code> <code>Retail</code></p>
-</div>
-
 
 - 🔹 **[E-commerce Sales Dashboard](link-to-repo)** — `Excel`  
   KPI-driven analysis of sales trends  
