@@ -93,7 +93,7 @@ saranya = {
   First class with distinction
 
 
-## Featured Projects
+
 <h2>📊 Featured Projects</h2>
 
 <!-- Project Card -->
