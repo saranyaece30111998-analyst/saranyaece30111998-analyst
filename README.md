@@ -109,7 +109,27 @@ saranya = {
 | 📦 **Urban Weather Pattern Report** | Climate trends across Indian metros | Power BI |
 | 📦 **Customer Support Ticket Analyzer** | NLP-based ticket classification & insights | Python |
 | 📦 **Student Performance Analysis** | NumPy-based statistical insights into grades, correlations, and learning trends | Python (NumPy) |
+I'll build an interactive portfolio page to showcase your data analytics projects. Let me create the design system and components.
 
+Built an interactive portfolio page at `/` that showcases all 12 projects.
+
+What’s interactive:
+- Live search by project name, tool, or keyword
+- Tool filter chips (All, Excel, Power BI, SQL, Tableau, Python)
+- Expandable project cards with highlights
+- Hover effects and animated entrance
+- Responsive grid layout
+
+Files created/updated:
+- `src/routes/index.tsx` — portfolio page with hero, stats, search/filter, project grid
+- `src/components/ProjectCard.tsx` — reusable project card
+- `src/lib/projects.ts` — all 12 projects with descriptions, tools, highlights
+- `src/styles.css` — custom blue/teal analytics design system + animations
+- `src/assets/hero.png` — generated data-viz hero image
+- `src/routes/__root.tsx` — cleaned up metadata
+- `src/routes/sitemap[.]xml.ts` + `public/robots.txt` — SEO setup
+
+Next step: Update the `link` field in `src/lib/projects.ts` for each project so the “View Project” buttons point to your actual GitHub repositories.
 <p align="center"><a href="https://github.com/saranyaece30111998-analyst?tab=repositories"><img src="https://img.shields.io/badge/See%20more%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ## 📜 Certifications
