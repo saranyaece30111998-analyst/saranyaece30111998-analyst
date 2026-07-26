@@ -26,7 +26,7 @@
 
 
 
-<h2 align="center">I turn coffee into pivot tables ☕📊 📈</h2>
+
 
 ---
 
