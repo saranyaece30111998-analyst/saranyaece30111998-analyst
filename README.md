@@ -93,9 +93,6 @@ saranya = {
   First class with distinction
 
 
-## 📂 Data Analytics & Visualization Projects
-
-
 ## Featured Projects
 
 - 🔹 **[E-commerce Sales Dashboard](link-to-repo)** — `Excel`  
