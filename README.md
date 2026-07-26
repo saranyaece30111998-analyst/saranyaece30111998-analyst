@@ -178,6 +178,67 @@ saranya = {
 ## 📈 Contribution Activity
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saranyaece30111998-analyst&theme=tokyonight&hide_border=true&area=true" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile views" />
+</p>
+
+<h1 align="center">Hi, I'm <YOUR NAME> 👋</h1>
+<p align="center">Data Analyst · Dashboards · Visualization · SQL · Python</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-12-3B82F6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Stars-⭐%20Growing-10B981?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-36-8B5CF6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects%20Live-Live-EF4444?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dashboards-36-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics%20Projects-12-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Tableau%20%7C%20Python-6366F1?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📦 **[E-commerce Sales Dashboard](link-to-repo)** | KPI-driven analysis of sales trends | `Excel` |
+| 📦 **[Social Media Impact Analysis](link-to-repo)** | Productivity vs. screen time dashboard | `Power BI` `Excel` |
+| 📦 **[SQL Data Cleaning](link-to-repo)** | Structured queries for raw dataset insights | `SQL` |
+| 📦 **[Bike Sharing Analysis](link-to-repo)** | Demand prediction & visualization | `Excel` `Power BI` |
+| 📦 **[Chocolate Sales Analysis](link-to-repo)** | Regional & product-level insights with KPIs | `Tableau` |
+| 📦 **[Shopify Transactions Dashboard](link-to-repo)** | 60,000+ records analyzed for profit & demand | `Power BI` |
+| 📦 **[Weather Data Analysis](link-to-repo)** | Seasonal demand forecasting using climate data | `Excel` `Power BI` |
+| 📦 **[Global Travel Trends 2020–2024](link-to-repo)** | Tourism spending & behavior analysis | `Power BI` |
+| 📦 **[Bike Station Sharing Across Europe](link-to-repo)** | Usage trends & demand hotspots | `Power BI` |
+| 📦 **[Urban Weather Pattern Report](link-to-repo)** | Climate trends across Indian metros | `Power BI` |
+| 📦 **[Customer Support Ticket Analyzer](link-to-repo)** | NLP-based ticket classification & insights | `Python` |
+| 📦 **[Student Performance Analysis](link-to-repo)** | NumPy-based statistical insights into grades, correlations, and learning trends | `Python (NumPy)` |
+
+---
+
+## 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://your-live-portfolio-url.lovable.app">🌐 View Live Portfolio</a>
+</p>
+
 
 ## 🏆 GitHub Trophies
 
