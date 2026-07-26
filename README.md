@@ -188,7 +188,6 @@ saranya = {
 
 ---
 
-![AI Data Analyst Certificates](https://copilot.microsoft.com/th/id/BCO.b2c87bf9-2aca-492c-9795-b9c211b3bbcd.png)
 
 ## 🏅 Achievements
 
