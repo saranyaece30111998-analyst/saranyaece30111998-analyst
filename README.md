@@ -178,9 +178,7 @@ saranya = {
 ## 📈 Contribution Activity
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saranyaece30111998-analyst&theme=tokyonight&hide_border=true&area=true" /></p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile views" />
-</p>
-
+  
 
 <p align="center">Data Analyst · Dashboards · Visualization · SQL · Python</p>
 
@@ -201,24 +199,7 @@ saranya = {
   <img src="https://img.shields.io/badge/Tools-Excel%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Tableau%20%7C%20Python-6366F1?style=for-the-badge" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 📦 **[E-commerce Sales Dashboard](link-to-repo)** | KPI-driven analysis of sales trends | `Excel` |
-| 📦 **[Social Media Impact Analysis](link-to-repo)** | Productivity vs. screen time dashboard | `Power BI` `Excel` |
-| 📦 **[SQL Data Cleaning](link-to-repo)** | Structured queries for raw dataset insights | `SQL` |
-| 📦 **[Bike Sharing Analysis](link-to-repo)** | Demand prediction & visualization | `Excel` `Power BI` |
-| 📦 **[Chocolate Sales Analysis](link-to-repo)** | Regional & product-level insights with KPIs | `Tableau` |
-| 📦 **[Shopify Transactions Dashboard](link-to-repo)** | 60,000+ records analyzed for profit & demand | `Power BI` |
-| 📦 **[Weather Data Analysis](link-to-repo)** | Seasonal demand forecasting using climate data | `Excel` `Power BI` |
-| 📦 **[Global Travel Trends 2020–2024](link-to-repo)** | Tourism spending & behavior analysis | `Power BI` |
-| 📦 **[Bike Station Sharing Across Europe](link-to-repo)** | Usage trends & demand hotspots | `Power BI` |
-| 📦 **[Urban Weather Pattern Report](link-to-repo)** | Climate trends across Indian metros | `Power BI` |
-| 📦 **[Customer Support Ticket Analyzer](link-to-repo)** | NLP-based ticket classification & insights | `Python` |
-| 📦 **[Student Performance Analysis](link-to-repo)** | NumPy-based statistical insights into grades, correlations, and learning trends | `Python (NumPy)` |
 
 ---
 
