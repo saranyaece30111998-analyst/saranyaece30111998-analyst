@@ -178,11 +178,10 @@ saranya = {
 ## 📈 Contribution Activity
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saranyaece30111998-analyst&theme=tokyonight&hide_border=true&area=true" /></p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile views" />
 </p>
 
-<h1 align="center">Hi, I'm <YOUR NAME> 👋</h1>
+
 <p align="center">Data Analyst · Dashboards · Visualization · SQL · Python</p>
 
 ---
