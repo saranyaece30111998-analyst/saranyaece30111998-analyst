@@ -94,6 +94,81 @@ saranya = {
 
 
 ## Featured Projects
+<h2>📊 Featured Projects</h2>
+
+<!-- Project Card -->
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 E-commerce Sales Dashboard — <code>Excel</code></h3>
+  <p><b>KPI-driven analysis of sales trends</b></p>
+  <p><code>Sales Analytics</code> <code>KPI Dashboard</code> <code>Retail</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Social Media Impact Analysis — <code>Power BI</code> <code>Excel</code></h3>
+  <p><b>Productivity vs. screen time dashboard</b></p>
+  <p><code>Social Analytics</code> <code>Wellness</code> <code>Correlation</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 SQL Data Cleaning — <code>SQL</code></h3>
+  <p><b>Structured queries for raw dataset insights</b></p>
+  <p><code>Data Cleaning</code> <code>Query Optimization</code> <code>ETL</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Bike Sharing Analysis — <code>Excel</code> <code>Power BI</code></h3>
+  <p><b>Demand prediction & visualization</b></p>
+  <p><code>Transportation</code> <code>Demand Forecasting</code> <code>Visualization</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Chocolate Sales Analysis — <code>Tableau</code></h3>
+  <p><b>Regional & product-level insights with KPIs</b></p>
+  <p><code>Sales</code> <code>Regional Analysis</code> <code>KPIs</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Shopify Transactions Dashboard — <code>Power BI</code></h3>
+  <p><b>60,000+ records analyzed for profit & demand</b></p>
+  <p><code>E-commerce</code> <code>Profit Analysis</code> <code>Big Data</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Weather Data Analysis — <code>Excel</code> <code>Power BI</code></h3>
+  <p><b>Seasonal demand forecasting using climate data</b></p>
+  <p><code>Climate</code> <code>Forecasting</code> <code>Seasonality</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Global Travel Trends 2020–2024 — <code>Power BI</code></h3>
+  <p><b>Tourism spending & behavior analysis</b></p>
+  <p><code>Tourism</code> <code>Trend Analysis</code> <code>Global Data</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Bike Station Sharing Across Europe — <code>Power BI</code></h3>
+  <p><b>Usage trends & demand hotspots</b></p>
+  <p><code>Geospatial</code> <code>Transportation</code> <code>Europe</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Urban Weather Pattern Report — <code>Power BI</code></h3>
+  <p><b>Climate trends across Indian metros</b></p>
+  <p><code>Weather</code> <code>India</code> <code>Urban Analytics</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Customer Support Ticket Analyzer — <code>Python</code></h3>
+  <p><b>NLP-based ticket classification & insights</b></p>
+  <p><code>NLP</code> <code>Classification</code> <code>Customer Support</code></p>
+</div>
+
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; margin-bottom:12px; color:#c9d1d9;">
+  <h3>🔹 Student Performance Analysis — <code>Python (NumPy)</code></h3>
+  <p><b>NumPy-based statistical insights into grades, correlations, and learning trends</b></p>
+  <p><code>Education</code> <code>Statistics</code> <code>NumPy</code></p>
+</div>
+
 
 - 🔹 **[E-commerce Sales Dashboard](link-to-repo)** — `Excel`  
   KPI-driven analysis of sales trends  
