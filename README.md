@@ -199,6 +199,12 @@ saranya = {
 <p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saranyaece30111998-analyst&show_icons=true&hide_border=true&theme=tokyonight" />
 <img height="165" src="https://streak-stats.demolab.com?user=saranyaece30111998-analyst&hide_border=true&theme=tokyonight" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranyaece30111998-analyst&layout=compact&hide_border=true&theme=tokyonight" /></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saranyaece30111998&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=saranyaece30111998&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranyaece30111998&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
 
 ## 📈 Contribution Activity
 
