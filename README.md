@@ -9,6 +9,9 @@
   <a href="https://github.com/saranyaece30111998-analyst" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937" />
   </a> &nbsp; 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://saranya-p.lovable.app)
+
+
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/saranya-p-b37248195" target="_blank">
