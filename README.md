@@ -9,8 +9,11 @@
   <a href="https://github.com/saranyaece30111998-analyst" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937" />
   </a> &nbsp; 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://saranya-p.lovable.app)
-
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://saranya-p.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f2937" />
+  </a> &nbsp;
 
 
   <!-- LinkedIn -->
