@@ -199,13 +199,15 @@ saranya = {
 
 - Top 5% Kaggle contributor in EDA notebooks
 - Speaker at local Data Meetup 2024
+## GITHUB STACKS
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saranyaece30111998-analyst&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranyaece30111998-analyst&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
+</p>
 
-## 📊 GitHub Stats
-
-<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saranyaece30111998-analyst&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://streak-stats.demolab.com?user=saranyaece30111998-analyst&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranyaece30111998-analyst&layout=compact&hide_border=true&theme=tokyonight" /></p>
-
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=saranyaece30111998-analyst&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
 ## 📈 Contribution Activity
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saranyaece30111998-analyst&theme=tokyonight&hide_border=true&area=true" /></p>
