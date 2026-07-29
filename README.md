@@ -197,7 +197,7 @@ saranya = {
 
 ## 🏅 Achievements
 
-- Top 5% Kaggle contributor in EDA notebooks
+- Top 5% Kaggle 
 - Speaker at local Data Meetup 2024
 ## GITHUB STACKS
 <p align="center">
