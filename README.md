@@ -198,7 +198,7 @@ saranya = {
 ## 🏅 Achievements
 
 - Top 5% Kaggle 
-- Speaker at local Data Meetup 2024
+- Speaker at l
 ## GITHUB STACKS
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saranyaece30111998-analyst&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
