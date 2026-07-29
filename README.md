@@ -197,7 +197,21 @@ saranya = {
 
 ## 🏅 Achievements
 
--  
+- Built and maintained multiple repositories (Python scripts, Power BI dashboards, SQL queries).
+
+Contributed to open source projects through bug fixes, feature additions, and documentation improvements.
+
+Authored professional README files with bilingual (Tamil-English) explanations and structured formatting.
+
+Published portfolio projects showcasing NumPy practice, ticket analyser scripts, and dashboard analysis.
+
+Participated in code reviews, merged pull requests, and collaborated with peers.
+
+Demonstrated steady growth with consistent commits and updates.
+
+Showcased technical diversity across Python, SQL, Excel, and visualization tools.
+
+Uploaded practice scripts and portfolio-building exercises to track learning progress.
 - 
 ## GITHUB STACKS
 <p align="center">
