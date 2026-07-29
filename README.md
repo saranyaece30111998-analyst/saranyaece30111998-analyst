@@ -199,7 +199,7 @@ saranya = {
 
 - Built and maintained multiple repositories (Python scripts, Power BI dashboards, SQL queries).
 
-Contributed to open source projects through bug fixes, feature additions, and documentation improvements.
+-Contributed to open source projects through bug fixes, feature additions, and documentation improvements.
 
 Authored professional README files with bilingual (Tamil-English) explanations and structured formatting.
 
