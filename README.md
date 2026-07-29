@@ -203,7 +203,7 @@ saranya = {
 
 -Authored professional README files with bilingual (Tamil-English) explanations and structured formatting.
 
-Published portfolio projects showcasing NumPy practice, ticket analyser scripts, and dashboard analysis.
+-Published portfolio projects showcasing NumPy practice, ticket analyser scripts, and dashboard analysis.
 
 Participated in code reviews, merged pull requests, and collaborated with peers.
 
