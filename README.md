@@ -211,8 +211,7 @@ saranya = {
 
 - Showcased technical diversity across Python, SQL, Excel, and visualization tools.
 
-Uploaded practice scripts and portfolio-building exercises to track learning progress.
-- 
+ 
 ## GITHUB STACKS
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saranyaece30111998-analyst&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
