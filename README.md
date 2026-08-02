@@ -11,7 +11,7 @@
   </a> &nbsp; 
 <p align="center">
   <!-- Portfolio -->
-  <a href="https://saranp.lovable.app/" target="_blank">
+  <a href="https://saranya-data-visions.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f2937" />
   </a> &nbsp;
 
