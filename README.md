@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saranya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Turning%20numbers%20into%20decisions&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />[[[[[[]]]]]]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saranya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Turning%20numbers%20into%20decisions&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />[[[[[[]]
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=9b87f5&center=true&vCenter=true&width=700&lines=Turning%20numbers%20into%20decisions;Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI;I%20build%20dashboards%20that%20tell%20stories;Always%20learning%2C%20always%20exploring%20data" alt="Typing SVG" /></p>
