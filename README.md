@@ -16,7 +16,7 @@
   </a> &nbsp;
 
 
-  <!-- LinkedIn -->===========================================================================
+  <!-- LinkedIn -->=========================================
   <a href="https://www.linkedin.com/in/saranya-p-b37248195" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937" />
   </a> &nbsp;
