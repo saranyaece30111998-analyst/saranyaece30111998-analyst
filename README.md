@@ -13,7 +13,7 @@
   <!-- Portfolio -->
   <a href="https://saranya-analyst-30111998.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f2937" />
-  </a> &nbsp;
+  </a> &nbsp;==========================================================================
 
 
   <!-- LinkedIn -->
