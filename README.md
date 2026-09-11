@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937" />
   </a> &nbsp; '
 <p align="center">
-  <!-- Portfolio -->========================================================================
+  <!-- Portfolio -->
   <a href="https://saranya-analyst-30111998.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1f2937" />
   </a> &nbsp;
